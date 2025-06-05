@@ -79,7 +79,7 @@ I matched <b> Pivoting </b> as the action of the attacker who's The attacker use
 <br/>
 
  <p align="center">
-I matched <b>  Action & Objectives </b> as the action of the attacker who's --- : <br/>
+I matched <b>  Action & Objectives </b> as the action of the attacker who's steals a database and sells this to a 3rd party : <br/>
 <img src="https://github.com/AdamuHassanAli/Unified-Kill-Chain/blob/main/Images/005%20Action%20&%20Objectives.jpeg?raw=true"/>
 <br/>
 <br/>
