@@ -54,6 +54,11 @@ I completed a practical challenge by mapping attacker behaviors to their Unified
 - Lateral Movement – The attacker uses the compromised host to access other systems on the network
 - Exfiltration – A stolen database is sold to a third party
 
+<p align="center">
+<b>I matched <b>Reconnaissance</b> as the action of the attacker that uses tools to gather information about a system  :</b> <br/>
+<img src="https://github.com/AdamuHassanAli/Cyber-Kill-Chain/blob/main/Images/Cyber%20Kill%20Chain%20Answer.jpeg?raw=true"/>
+<br/>
+<br/>
 
 
 ## Outcome: 
