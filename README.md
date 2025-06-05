@@ -48,11 +48,11 @@ This hands-on exercise simulated a complete cyberattack scenario. I deployed a s
 
 ## What I Did:
 I completed a practical challenge by mapping attacker behaviors to their Unified Kill Chain phases. These included:
-- Reconnaissance – The attacker uses tools to gather information about a system
-- Persistence – The attacker installs a malicious script to allow them remote access at a later date
-- Command and Control (C2) – The hacked machine is being controlled from an attacker's own server
-- Lateral Movement – The attacker uses the compromised host to access other systems on the network
-- Exfiltration – A stolen database is sold to a third party
+- <b>Reconnaissance</b> – The attacker uses tools to gather information about a system
+- <b>Persistence</b> – The attacker installs a malicious script to allow them remote access at a later date
+- <b>Command and Control (C2)</b> – The hacked machine is being controlled from an attacker's own server
+- <b>Pivoting</b> – The attacker uses the hacked machine to access other servers on the same network
+- <b> Action & Objectives</b> – The attacker steals a database and sells this to a 3rd party
 
 <p align="center">
 I matched <b>Reconnaissance</b> as the action of the attackers who's uses tools to gather information about a system: <br/>
@@ -85,28 +85,12 @@ I matched <b>  Action & Objectives </b> as the action of the attacker who's --- 
 <br/>
 
  <p align="center">
-I matched <b> --- </b> as the action of the attacker who's --- : <br/>
-<img src="---"/>
+I Successfuly o <b> Catched the Flag  </b> f the Lab Activity: <br/>
+<img src="https://github.com/AdamuHassanAli/Unified-Kill-Chain/blob/main/Images/006%20The%20Flag%20Cacthed.jpeg?raw=true"/>
 <br/>
 <br/>
 
- <p align="center">
-I matched <b> --- </b> as the action of the attacker who's steals a database and sells this to a 3rd party : <br/>
-<img src="---"/>
-<br/>
-<br/>
 
- <p align="center">
-I matched <b> --- </b> as the action of the attacker who's --- : <br/>
-<img src="---"/>
-<br/>
-<br/>
-
- <p align="center">
-I matched <b> --- </b> as the action of the attacker who's --- : <br/>
-<img src="---"/>
-<br/>
-<br/>
 
  
 ## Outcome: 
