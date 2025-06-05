@@ -85,13 +85,10 @@ I matched <b>  Action & Objectives </b> as the action of the attacker who's --- 
 <br/>
 
  <p align="center">
-I Successfuly o <b> Catched the Flag  </b> f the Lab Activity: <br/>
+I Successfuly <b> Catched the Flag  </b> of the Lab Activity: <br/>
 <img src="https://github.com/AdamuHassanAli/Unified-Kill-Chain/blob/main/Images/006%20The%20Flag%20Cacthed.jpeg?raw=true"/>
 <br/>
 <br/>
-
-
-
  
 ## Outcome: 
 Completing this lab has significantly improved my capability to understand and counteract sophisticated cyber threats. By mastering the Unified Kill Chain framework, I am better equipped to anticipate attacker moves, implement effective defenses, and contribute to a proactive cybersecurity posture within any organization.
