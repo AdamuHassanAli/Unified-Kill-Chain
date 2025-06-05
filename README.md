@@ -49,18 +49,66 @@ This hands-on exercise simulated a complete cyberattack scenario. I deployed a s
 ## What I Did:
 I completed a practical challenge by mapping attacker behaviors to their Unified Kill Chain phases. These included:
 - Reconnaissance – The attacker uses tools to gather information about a system
-- Persistence – A malicious script is installed for future remote access
-- Command and Control (C2) – The hacked machine is controlled remotely from an attacker’s server
+- Persistence – The attacker installs a malicious script to allow them remote access at a later date
+- Command and Control (C2) – The hacked machine is being controlled from an attacker's own server
 - Lateral Movement – The attacker uses the compromised host to access other systems on the network
 - Exfiltration – A stolen database is sold to a third party
 
 <p align="center">
-<b>I matched <b>Reconnaissance</b> as the action of the attacker that uses tools to gather information about a system  :</b> <br/>
-<img src="https://github.com/AdamuHassanAli/Cyber-Kill-Chain/blob/main/Images/Cyber%20Kill%20Chain%20Answer.jpeg?raw=true"/>
+I matched <b>Reconnaissance</b> as the action of the attackers who's uses tools to gather information about a system: <br/>
+<img src="https://github.com/AdamuHassanAli/Unified-Kill-Chain/blob/main/Images/001%20Reconnaissance.jpeg?raw=true"/>
 <br/>
 <br/>
 
+<p align="center">
+I matched <b> Persistence </b> as the action of the attackers who's installs a malicious script to allow them remote access at a later date : <br/>
+<img src="https://github.com/AdamuHassanAli/Unified-Kill-Chain/blob/main/Images/002%20Persistance.jpeg?raw=true"/>
+<br/>
+<br/>
 
+<p align="center">
+I matched <b>  Command and Control </b> as the action of the attacker who's The hacked machine is being controlled from an attacker's own server : <br/>
+<img src="https://github.com/AdamuHassanAli/Unified-Kill-Chain/blob/main/Images/003%20Command%20%20&%20Control.jpeg?raw=true"/>
+<br/>
+<br/>
+
+ <p align="center">
+I matched <b> Pivoting </b> as the action of the attacker who's The attacker uses the hacked machine to access other servers on the same network : <br/>
+<img src="https://github.com/AdamuHassanAli/Unified-Kill-Chain/blob/main/Images/004%20Pivoting.jpeg?raw=true"/>
+<br/>
+<br/>
+
+ <p align="center">
+I matched <b>  Action & Objectives </b> as the action of the attacker who's --- : <br/>
+<img src="https://github.com/AdamuHassanAli/Unified-Kill-Chain/blob/main/Images/005%20Action%20&%20Objectives.jpeg?raw=true"/>
+<br/>
+<br/>
+
+ <p align="center">
+I matched <b> --- </b> as the action of the attacker who's --- : <br/>
+<img src="---"/>
+<br/>
+<br/>
+
+ <p align="center">
+I matched <b> --- </b> as the action of the attacker who's steals a database and sells this to a 3rd party : <br/>
+<img src="---"/>
+<br/>
+<br/>
+
+ <p align="center">
+I matched <b> --- </b> as the action of the attacker who's --- : <br/>
+<img src="---"/>
+<br/>
+<br/>
+
+ <p align="center">
+I matched <b> --- </b> as the action of the attacker who's --- : <br/>
+<img src="---"/>
+<br/>
+<br/>
+
+ 
 ## Outcome: 
 Completing this lab has significantly improved my capability to understand and counteract sophisticated cyber threats. By mastering the Unified Kill Chain framework, I am better equipped to anticipate attacker moves, implement effective defenses, and contribute to a proactive cybersecurity posture within any organization.
 
