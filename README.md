@@ -41,6 +41,20 @@ The UKC's detailed approach allows for a more nuanced understanding of complex a
 This hands-on exercise simulated a complete cyberattack scenario. I deployed a static site environment where I matched specific attacker actions to their correct phases in the Unified Kill Chain. This simulated a real-world cyber intrusion, requiring deep understanding of adversary behavior across the extended attack lifecycle.
 
 ## Key Objectives:
+- Understand and apply all 18 phases of the Unified Kill Chain
+- Accurately classify adversary actions based on behavioral context
+- Use threat intelligence and attack patterns to support analysis
+- Strengthen my ability to detect, map, and report multi-phase attacks
+
+## What I Did:
+I completed a practical challenge by mapping attacker behaviors to their Unified Kill Chain phases. These included:
+- Reconnaissance – The attacker uses tools to gather information about a system
+- Persistence – A malicious script is installed for future remote access
+- Command and Control (C2) – The hacked machine is controlled remotely from an attacker’s server
+- Lateral Movement – The attacker uses the compromised host to access other systems on the network
+- Exfiltration – A stolen database is sold to a third party
+
+
 
 ## Outcome: 
 Completing this lab has significantly improved my capability to understand and counteract sophisticated cyber threats. By mastering the Unified Kill Chain framework, I am better equipped to anticipate attacker moves, implement effective defenses, and contribute to a proactive cybersecurity posture within any organization.
